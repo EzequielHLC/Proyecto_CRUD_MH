@@ -2,6 +2,10 @@
 
 Aplicación To‑Do gamificada inspirada en Monster Hunter World. Permite administrar tareas (misiones de cacería), subir de Rango de Cazador (HR), y sincronizar el progreso entre dispositivos mediante un ID de Cazador. Utiliza Firebase para backend (Autenticación y Firestore) y está construida con React + Vite.
 
+- Pulikoski, Mauricio
+- Lovera, Hernán
+- Fernández, Lautaro
+
 ---
 
 ## Características principales
