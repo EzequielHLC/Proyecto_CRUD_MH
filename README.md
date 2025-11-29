@@ -37,6 +37,15 @@ Aplicación To‑Do gamificada inspirada en Monster Hunter World. Permite admini
 
 ---
 
+## Video de Muestra
+
+<video width="100%" controls>
+  <source src="https://youtu.be/CnX5-saWQ6I" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
+
+---
+
 ## Instalación y configuración — Web (development)
 
 1. Clonar el repo y entrar en la carpeta:
