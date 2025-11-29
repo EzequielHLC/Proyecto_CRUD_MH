@@ -39,10 +39,7 @@ Aplicación To‑Do gamificada inspirada en Monster Hunter World. Permite admini
 
 ## Video de Muestra
 
-<video width="100%" controls>
-  <source src="https://youtu.be/CnX5-saWQ6I" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+[![Monster Hunter Quest Planner - Tutorial](https://img.youtube.com/vi/CnX5-saWQ6I/0.jpg)](https://youtu.be/CnX5-saWQ6I)
 
 ---
 
